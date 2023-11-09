@@ -1,0 +1,71 @@
+.navbar {
+    background-color: rgb(251, 245, 242) ;
+    height: 100px;
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+.container {
+    position: relative;
+}
+
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(205, 118, 72, 0.7);
+    color: #fff;
+    padding: 40px;
+    
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    font-family: 'sofia';
+}
+
+.title {
+    font-size: 30px;
+    font-family: 'sans-serif';
+}
+.bg{
+    background-image: url(../pictures/pic4.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+}
+.part2{
+    background-color: rgb(251, 245, 242) ;
+    height: 300px;
+}
+
+.beige{
+    background-color: rgb(251, 245, 242) ;
+
+}
+p{
+    font-family:  "cursive";
+    font-size: 25px;
+    text-align: center;margin: 10%;
+}
+h5{
+    font-family:  "cursive";
+    font-size: 40vw ;
+}
+.bgg{
+    background-image: url(../pictures/pic4.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.bggg{
+    position: absolute;
+}
+.locaaa{
+    border: 2px solid black;
+    
+}
+
+
+
+
